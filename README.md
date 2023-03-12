@@ -1,5 +1,5 @@
 ## A GPT-3 ❤️ Nextjs Quick starter
-
+GPT-3 Powered application using NextJS and vscode.
 ## QuickStart
 
 1. Clone this repo
