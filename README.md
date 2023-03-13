@@ -9,7 +9,8 @@ GPT-3 Powered application using NextJS and vscode.
 5. In `pages/index.js` you tweak your UI/UX
 6. start the dev server with `yarn dev` or `npm run dev` command
 
-## For more stuff like this checkout [lablab.ai](https://lablab.ai/)
+## For more information on application,checkout
+https://lablab.ai/t/gpt3
 
 ## Tips
 
@@ -17,10 +18,13 @@ If you don't have a setup on your computer that allow to run code locally, then 
 
 ---
 
-### Links
+### Deployment
+this application was deployed to Vercel(creators of the next.js)
+Process
+npm install -g vercel
+vercel env add OPENAI_API_KEY (likely to bring an error but follow the process)
+vercel (follow the prompt)
+vercel --prod
 
-For more on Artificial Intelligence, checkout this links
 
-- [My Twitter](https://twitter.com/mathiiias123).
-- [New Native](https://newnative.ai)
-- [Nextgrid](https://nextgrid.ai)
+
